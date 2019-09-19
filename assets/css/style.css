@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #upload-container label {
-    color:rgb(7, 185, 255);
+    color:rgb(5, 103, 148);
     padding: 0;
     line-height: 40px;
     width: 300px;
@@ -113,13 +113,13 @@ h1, h2, h3, h4, h5, h6 {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    border: 3px solid rgb(7, 185, 255);
+    border: 3px solid rgb(5, 103, 148);
 }
 
 #upload-container label:hover,
 #upload-container label:focus {
-    color: rgb(80, 203, 252);
-    border: 3px solid rgb(80, 203, 252);
+    color: rgb(24, 134, 185);
+    border: 3px solid rgb(24, 134, 185);
 }
 
 #upload-container div {
